@@ -52,7 +52,7 @@ const defaultMenu = {
 #OS Version : %osversion#
 #OS Release : %osrelease#
 #OS Uptime : %osuptime#
-
+       *KHURUSHI ALL REVERSED © 2022*
 _Claim *.daily* atau mainkan game di *.funmenu* untuk mendapatkan exp / money_
 `.trimStart(),
 	header: '╭─「 %category 」',
