@@ -1,10 +1,10 @@
 let handler = async (m, { conn, command }) => {
     conn.reply(m.chat, `*「 RECODED BY ZERENITY 」*
+*HAK CIPTA MILIK AZAMI X BYORA*
+*⭔ SCRIPT KHURUSHI ( 1 file session )*
+_https://github.com/Ganskatriel/RecodebyRiell
 
-*⭔ Single Auth ( 1 file session )*
-_https://github.com/clicknetcafe/azamibot-md_
-
-*⭔ Multi Auth ( multiple file session )*
+*⭔ Multi Auth ( MAKE 2 SESSION DENGN MENGGUNAKN SIGLE AUTH )*
 _https://github.com/clicknetcafe/azamibot-md-multi_
 
 *⭔ Azami node_modules*
