@@ -3,7 +3,7 @@
 
 let handler = async (m, { conn, command }) => {
 	let ini_txt = `❤‍🩹 *[ Chat Dengan Creator ]*
-wa.me/6282337245566
+wa.me/6282146218274 //ī.am/ꪶ͢RiellXd
 
 ╔╣ *PREMIUM USER*
 ║ • Infinity Limit
@@ -16,21 +16,21 @@ wa.me/6282337245566
 ╚══╣ *Harga :* Rp.15.000 / bulan
 
 ╔╣ *JASA RUN BOT*
-║ • Nebeng Run SC Via RDP
+║ • Nebeng Run SC Via PANEL
 ║ • SC wajib *plugin*, bukan case
 ╚══╣ *Harga :* Rp.20.000 / bulan
 
 ╔╣ *JADI BOT*
-║ • Jadi Bot Azami Always ON
+║ • Jadi Bot KHURUSHI Always ON
 ║ • Custom Namabot, Owner, rules, dll.
 ║ • Bisa Req Tampilan atau Fitur
 ╚══╣ *Harga :* Rp.25.000 / bulan
 
-- Pembayaran via *OVO / Dana / GoPay*
+- Pembayaran via *PULSA ONLY*
   *( tidak ada opsi lain )*
-  ke nomor 082337245566
+  ke nomor 083813417529 AXIS
 - Whatsapp Multi Device
-- Run via RDP (Always ON)
+- Run via PANEL (Always ON)
 - Request Fitur? *Chat Link Creator di atas.*`
 	//m.reply(ini_txt)
 	command = command.toLowerCase()
@@ -70,8 +70,8 @@ wa.me/6282337245566
 				"productImageCount": 100,
 				"firstImageId": 1,
 				"salePriceAmount1000": "15000000",
-				"retailerId": `ꪶ𝐖𝐫𝐚𝐧𝐳𝐓𝐚𝐦𝐩𝐚𝐧𝐳⿻ꫂ`,
-				"url": "wa.me/6282337245566"
+				"retailerId": `ꪶRiellXd⿻ꫂ`,
+				"url": "wa.me/6282146218274"
 			},
 			"businessOwnerJid": "6282337245566@s.whatsapp.net",
 		}
