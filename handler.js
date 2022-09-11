@@ -9,8 +9,8 @@ import chalk from 'chalk'
 global.prems = ['6282151652728','6285714216711','6285640417385','6282187352115','6285803583481','6288215689772','6285651062576'] // Premium user has unlimited limit
 
 // Sticker WM
-global.packname = 'Azami x Byoru'
-global.author = 'Bot V5'
+global.packname = 'Riell x Khurushi'
+global.author = 'V2'
 
 //apikey
 global.api = '1431kalakuan5195'	// https://api.lolhuman.xyz/docs 1431kalakuan5195
@@ -1107,7 +1107,7 @@ global.dfail = (type, m, conn) => {
 		admin: `*「ADMIN GROUP ONLY」*`,
 		nsfw: `*NSFW GAK AKTIF*`,
 		botAdmin: `*「BOT HARUS JADI ADMIN」*`,
-		unreg: 'Silahkan daftar untuk menggunakan fitur ini dengan cara mengetik:\n\n*#daftar nama.umur*\n\nContoh: *#daftar Manusia.16*',
+		unreg: 'Silahkan daftar untuk menggunakan fitur ini dengan cara mengetik:\n\n*#daftar nama.umur*\n\nContoh: *#daftar Khurushi.16*',
 		restrict: 'Fitur ini di *disable*!'
 	}[type]
 	if (msg) return m.reply(msg)
